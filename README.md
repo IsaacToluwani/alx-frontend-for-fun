@@ -1,1 +1,1 @@
-ALX Frontend for FUn
+ALX Frontend for Fun
